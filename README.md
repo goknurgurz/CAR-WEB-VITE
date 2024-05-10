@@ -15,3 +15,9 @@ The project uses the following technologies:
 - react-select
 - framer-motion
 - tailwind
+
+##screen
+
+
+https://github.com/goknurgurz/CAR-WEB-VITE/assets/142411104/572bf627-ce98-4936-a54c-527060d2dd75
+
